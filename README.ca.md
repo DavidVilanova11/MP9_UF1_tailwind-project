@@ -98,14 +98,14 @@ Documentar tot el procés de desenvolupament, incloent:
 
 #### :computer: **Desenvolupament** [70%]
 
-• [15%] Ús correcte de l'entorn de desenvolupament i les eines utilitzades.
-• [15%] Presentació del Wireframe i del SiteMap.
-• [25%] Ús dels components de Tailwind CSS i responsivitat
-• [10%] Estils i adequació a l'estructura de la pràctica
-• [5%] Publicació a internet
+- [15%] Ús correcte de l'entorn de desenvolupament i les eines utilitzades.
+- [15%] Presentació del Wireframe i del SiteMap.
+- [25%] Ús dels components de Tailwind CSS i responsivitat
+- [10%] Estils i adequació a l'estructura de la pràctica
+- [5%] Publicació a internet
 
 #### Documentació [30%]
 
-• [10%] Documentació del procés de desenvolupament.
-• [10%] Justificació de les decisions preses.
-• [10%] Anàlisi dels resultats obtinguts.
+- [10%] Documentació del procés de desenvolupament.
+- [10%] Justificació de les decisions preses.
+- [10%] Anàlisi dels resultats obtinguts.
