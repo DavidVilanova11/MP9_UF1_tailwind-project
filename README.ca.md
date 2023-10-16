@@ -35,6 +35,8 @@ Iniciar el projecte amb un arxiu HTML bàsic i utilitzar les següents eines:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Parcel](https://v2.parceljs.org/)
 
+En aquest projecte hauries
+
 #### Disseny amb Tailwind CSS
 
 Utilitzar les principals característiques de Tailwind CSS, incloent classes per a:

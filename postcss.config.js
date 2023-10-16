@@ -1,9 +1,7 @@
-tailwind-parcel-project
-├── src
-│   ├── index.html
-│   ├── index.js
-│   └── styles.css
-├── package.json
-├── postcss.config.js
-├── README.ca.md
-└── .gitignore
+module.exports = {
+  plugins: [
+    require('postcss-import'),
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
+};
