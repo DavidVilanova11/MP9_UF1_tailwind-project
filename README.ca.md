@@ -41,28 +41,25 @@ Utilitzar les principals característiques de Tailwind CSS, incloent classes per
 
 - Mides
 - Colors
-- Marges
-- ...
+- Fonts
+- Marges i Paddings
+- Flexbox i/o Grid
+- Assegurar-te que el lloc sigui totalment **responsive**
 
-Assegurar-se que el lloc web sigui totalment responsive.
+#### Estructura i Contingut
 
-#### Contingut
+Crear un petit portal amb contingut lliure. La pàgina ha de contenir, com a mínim (suposem l'exmple d'un lloc web sobre gastronomia):
 
-Crear un petit portal de gastronomia amb contingut lliure. La pàgina ha de contenir, com a mínim:
+- **Portada**: : Presenta el contingut, amb enllaços a la resta de pàgines.
+- **Categoria**: Aquesta pàgina ha d'oferir un llistat d'elements relacionats amb la temàtica general.
+  - Per exemple: llistat de plats tradicionals de la regió de Piemont o un llistat d'històries relacionades amb el menjar en l'antiga
+    Roma
+- **Detall**: En la categoria, ha d'haver-hi almenys una pàgina de detall que ha de seguir un format d'article i incloure informació relacionada amb l'element a descriure. És necessari que cada pàgina contingui un mínim de 3 paràgrafs de text, un llistat, i algun element multimèdia: imatge, vídeo, etc. Tingues en compte els elements d'HTML que s'usen per a estructurar la informació de la pàgina com a paràgrafs,llistes, cites o capçaleres.
 
-- Portada
-- Categoria
-- Detall
-- Presentació
-- Enllaços
+  - Un exemple de pàgines interiors podria ser una recepta de cuina o la història d'un plat concret. També pots ser més original ;)
 
-#### Estructura
-
-- Portada: Presentar breument el contingut del lloc i enllaçar a les altres pàgines.
-- Categoria: Llistar elements relacionats amb la temàtica general.
-- Detall: Pàgina d'article amb text, llistat i elements multimèdia.
-- Presentació: Una pàgina que expliqui més detalladament el contingut del lloc amb elements multimèdia.
-- Enllaços: Documentació sobre les fonts de contingut i atribucions als drets d'autor.
+- **Presentació**: Una pàgina que expliqui detalladament el contingut del lloc web. Si la portada presenta breument el contingut i enllaça a les pàgines, aquesta pàgina ha 'explicar de manera més detalladament el contingut. La pàgina ha d'incloure elements multimèdia com a imatges o vídeos i almenys 3 paràgrafs de text.
+- **Enllaços**: Una pàgina amb documentació a les fonts de les quals s'ha tret el contingut i atribucions als drets copyleft quan sigui necessari. Feu atenció de no utilitzar imatges i continguts en general amb drets d'autor ja que no podreu publicar el lloc web.
 
 #### Navegació
 
@@ -72,25 +69,33 @@ Crear un petit portal de gastronomia amb contingut lliure. La pàgina ha de cont
 
 #### Interactivitat
 
-Almenys una de les pàgines ha d'incloure una petita interactivitat amb JavaScript que siga comprensible per a navegadors antics.
+Incorpora almenys una petita interactivitat amb JavaScript que millori l'experiència de l'usuari. Per exemple, un botó que mostri un missatge o un menú que s'obri i es tanqui. És una manera de començar a veure la interacció amb el DOM i els esdeveniments.
 
 #### Publicació
 
-Desplegar el lloc web en un servidor públic i assegurar-se que siga accessible des d'internet.
-
-#### Drets d'Autors
-
-Assegurar-se de respectar els drets d'autor quan s'utilitzen materials protegits. Documentar això de manera adequada.
+Desplegar el lloc web en un servidor públic i assegurar-se que siga accessible des d'internet. Recomanem Github Pages per a això o si vols investigar més, pots utilitzar [Netlify](https://www.netlify.com/) o [Vercel](https://vercel.com/).
 
 ### Part 2: Documentació
 
 Documentar tot el procés de desenvolupament, incloent:
 
-- Passos de desenvolupament amb Tailwind CSS i Parcel.
-- Explicació de les decisions preses.
-- Resultats i comparació de les opcions disponibles.
-- Enllaços i recursos.
+- Explicació de les eine utilitzades i com ens ajuden a desenvolupar el nostre web (Tailwind CSS, Parcel, etc.).
+- Presentació del Wireframe i del SiteMap.
+- Explicació de les decisions preses en el disseny i desenvolupament del lloc web.
+- Enllaços i recursos utilitzats.
 
-## Contribucions
+### Criteris d'Avaluació
 
-Si desitges contribuir a aquesta documentació o millorar el projecte, si us plau, fes una forquilla (fork) i obri una sol·licitud de tirada (pull request).
+#### :computer: **Desenvolupament** [70%]
+
+• [15%] Ús correcte de l'entorn de desenvolupament i les eines utilitzades.
+• [15%] Presentació del Wireframe i del SiteMap.
+• [25%] Ús dels components de Tailwind CSS i responsivitat
+• [10%] Estils i adequació a l'estructura de la pràctica
+• [5%] Publicació a internet
+
+#### Documentació [30%]
+
+• [10%] Documentació del procés de desenvolupament.
+• [10%] Justificació de les decisions preses.
+• [10%] Anàlisi dels resultats obtinguts.
