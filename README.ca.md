@@ -39,7 +39,9 @@ Tailwind i Parcel ja estan disponibles en aquest Boilerplate. Tailwind ja sabem 
 
 #### SiteMap i Wireframe
 
-Un cop hagis entès bé l'estructura del projecte, crea un Wireframe i un SiteMap del lloc web. T'aconsello que el Wireframe l'hauries de crear amb [Figma](https://www.figma.com/) que ja heo [Whimsical](https://whimsical.com/) per a això. Tingues en compte que el lloc web ha de tenir almenys 4 pàgines diferents.
+Comença llegint bé què et demana el projecte. Un cop hagis entès bé l'estructura del projecte, crea un SiteMap esquemàtic que expliqui com s'estructura el lloc web. Figma pot ajudar-te ja amb això: https://www.figma.com/templates/sitemap-generator/ (no és necessari que utilitzes aquesta plantilla, però pot ser útil).
+
+També hauràs de crear un Wireframe que mostri l'estructura de les pàgines del lloc web. Això sí que ho hauries de fer amb Figma. Tingues en compte que el lloc web ha de tenir almenys 4 pàgines diferents.
 
 #### Disseny amb Tailwind CSS
 
@@ -75,9 +77,9 @@ Crear un petit portal amb contingut lliure. La pàgina ha de contenir, com a mí
 
 #### Figma i Tailwind CSS
 
-Crea al menys un component (pot ser la capçalera o un botó... has de pensar en elements reutilitzables) amb Figma i tracta d'exporar-lo a TailwindCSS amb les eines que incorpora. El plugin
+Crea al menys un component (pot ser la capçalera o un botó... has de pensar en elements reutilitzables) amb Figma i tracta d'exporar-lo a TailwindCSS amb les eines que incorpora. Existeixen diversos plugins de Figma que et poden ajudar a resoldre aquesta tasca amb més o menys facilitat.
 
-Incorpora almenys una petita interactivitat amb JavaScript que millori l'experiència de l'usuari. Per exemple, un botó que mostri un missatge o un menú que s'obri i es tanqui. És una manera de començar a veure la interacció amb el DOM i els esdeveniments.
+Durant el transcurs de la pràctica farem algunes proves. Mira d'explicar com ho has dut a terme en la documentació.
 
 #### Publicació
 
