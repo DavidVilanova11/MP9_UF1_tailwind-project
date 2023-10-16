@@ -11,7 +11,7 @@ El projecte té els següents fitxers:
 - `postcss.config.js`: Aquest fitxer és utilitzat per Parcel per processar el codi CSS.
 - `README.ca.md`: Aquest fitxer conté la documentació del projecte.
 
-###Per executar el projecte, segueix aquests passos:
+### Per executar el projecte, segueix aquests passos:
 
 1. Clona el repositori a la teva màquina local.
 2. Executa `npm install` per instal·lar les dependències del projecte.
@@ -34,6 +34,12 @@ Iniciar el projecte amb un arxiu HTML bàsic i utilitzar les següents eines:
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Parcel](https://v2.parceljs.org/)
+
+Tailwind i Parcel ja estan disponibles en aquest Boilerplate. Tailwind ja sabem què ens permet fer. Esbrina quin és l'objectiu de Parcel i explica-ho breument a la documentació.
+
+#### SiteMap i Wireframe
+
+Un cop hagis entès bé l'estructura del projecte, crea un Wireframe i un SiteMap del lloc web. T'aconsello que el Wireframe l'hauries de crear amb [Figma](https://www.figma.com/) que ja heo [Whimsical](https://whimsical.com/) per a això. Tingues en compte que el lloc web ha de tenir almenys 4 pàgines diferents.
 
 #### Disseny amb Tailwind CSS
 
@@ -67,7 +73,9 @@ Crear un petit portal amb contingut lliure. La pàgina ha de contenir, com a mí
 - La pàgina de categoria ha d'enllaçar la pàgina de detall.
 - Les pàgines de detall han d'incloure enllaços a altres pàgines de detall de la mateixa categoria o a altres pàgines relacionades.
 
-#### Interactivitat
+#### Figma i Tailwind CSS
+
+Crea al menys un component (pot ser la capçalera o un botó... has de pensar en elements reutilitzables) amb Figma i tracta d'exporar-lo a TailwindCSS amb les eines que incorpora. El plugin
 
 Incorpora almenys una petita interactivitat amb JavaScript que millori l'experiència de l'usuari. Per exemple, un botó que mostri un missatge o un menú que s'obri i es tanqui. És una manera de començar a veure la interacció amb el DOM i els esdeveniments.
 
