@@ -9,7 +9,7 @@ El projecte té els següents fitxers:
 - `src/styles.css`: Aquest fitxer conté el codi CSS de la pàgina web, escrit amb Tailwind CSS.
 - `package.json`: Aquest fitxer és el fitxer de configuració de npm. Llista les dependències i scripts del projecte.
 - `postcss.config.js`: Aquest fitxer és utilitzat per Parcel per processar el codi CSS.
-- `README.ca.md`: Aquest fitxer conté la documentació del projecte, escrita en català.
+- `README.ca.md`: Aquest fitxer conté la documentació del projecte.
 
 ###Per executar el projecte, segueix aquests passos:
 
