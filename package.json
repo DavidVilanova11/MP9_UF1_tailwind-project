@@ -16,16 +16,15 @@
   ],
   "author": "El teu nom",
   "license": "ISC",
-  "dependencies": {
-    "parcel-bundler": "^1.12.5",
-    "tailwindcss": "^2.2.7"
-  },
   "devDependencies": {
-    "@parcel/transformer-postcss": "^2.0.0"
+    "@parcel/transformer-postcss": "^2.10.0",
+    "autoprefixer": "^10.4.16",
+    "parcel-bundler": "^1.12.5",
+    "postcss": "^8.4.31",
+    "postcss-import": "^15.1.0",
+    "tailwindcss": "^3.3.3"
   },
-  "parcel": {
-    "serveOptions": {
-      "open": true
-    }
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.1404"
   }
 }
