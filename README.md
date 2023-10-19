@@ -104,7 +104,7 @@ Documentar tot el procés de desenvolupament, incloent:
 - [10%] Estils i adequació a l'estructura de la pràctica
 - [5%] Publicació a internet
 
-#### Documentació [30%]
+#### ✏️ Documentació [30%]
 
 - [10%] Documentació del procés de desenvolupament.
 - [10%] Justificació de les decisions preses.
